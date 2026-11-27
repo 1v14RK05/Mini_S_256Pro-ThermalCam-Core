@@ -1,0 +1,38 @@
+# Proprietary binaries and third-party runtimes (NEVER commit)
+*.dll
+*.exe
+*.pyd
+*.so
+*.dylib
+*.lib
+*.bin
+*.dat
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# Logs, captures, and diagnostic archives
+*.log
+*.zip
+*.7z
+*.rar
+*.csv
+*.mp4
+*.dyv
+capturas/
+logs/
+qianli_debug/
+Prueba_Runtime_*/
+Diagnostico_Modos_UVC_*/
+
+# Local environment & secrets
+.env
+.env.*
+*.bak
+*.ini
+*.lnk
