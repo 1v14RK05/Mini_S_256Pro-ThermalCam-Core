@@ -1,4 +1,4 @@
-# QianLi ThermalCam Core — USB/UVC & Radiometric Communication
+# Mini_S_256Pro — USB/UVC & Radiometric Communication
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%20(64--bit)-3776AB.svg)](https://www.python.org/)
