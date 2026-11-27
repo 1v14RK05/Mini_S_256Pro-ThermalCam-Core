@@ -6,7 +6,9 @@
 
 > 🇪🇸 **¿Prefieres leer en español?** Consulta [README.es.md](README.es.md) o la [Documentación de Arquitectura (ES)](docs/ARQUITECTURA_ES.md).
 
-Clean, open-source Python modules for **USB/UVC communication, SPI calibration reading, Y16/Y14 frame handling, and radiometric conversion** with **QianLi IR / MIIR (`Mini_S_256Pro`)** thermal cameras (`VID 0x0BDA : PID 0x5830`, `256×192`).
+Clean, open-source Python modules for **USB/UVC communication, SPI calibration reading, Y16/Y14 frame handling, and radiometric conversion** specifically developed for the **QianLi IR / MIIR `Mini_S_256Pro`** thermal camera (`VID 0x0BDA : PID 0x5830`, `256×192`).
+
+> ⚠️ **Model Compatibility Notice:** This project was developed and tested **exclusively with the `Mini_S_256Pro` model**. It has **not** been tested with any other thermal camera model.
 
 ---
 

@@ -1,4 +1,4 @@
-# QianLi ThermalCam Core — Comunicación USB/UVC y Radiometría
+# Mini_S_256Pro — USB/UVC & Radiometric Communication
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%20(64--bit)-3776AB.svg)](https://www.python.org/)
@@ -6,7 +6,9 @@
 
 > 🇬🇧 **Prefer English?** See [README.md](README.md) or [Architecture Documentation (EN)](docs/ARCHITECTURE_EN.md).
 
-Módulos limpios de código abierto en Python para **comunicación USB/UVC, lectura de calibración SPI, manejo de fotogramas Y16/Y14 y conversión radiométrica** con cámaras térmicas **QianLi IR / MIIR (`Mini_S_256Pro`)** (`VID 0x0BDA : PID 0x5830`, `256×192`).
+Módulos limpios de código abierto en Python para **comunicación USB/UVC, lectura de calibración SPI, manejo de fotogramas Y16/Y14 y conversión radiométrica** desarrollados específicamente para la cámara térmica **QianLi IR / MIIR `Mini_S_256Pro`** (`VID 0x0BDA : PID 0x5830`, `256×192`).
+
+> ⚠️ **Aviso de Compatibilidad:** Este proyecto fue desarrollado y probado **exclusivamente con el modelo `Mini_S_256Pro`**. **No** se ha probado con ningún otro modelo de cámara térmica.
 
 ---
 
