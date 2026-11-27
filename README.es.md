@@ -34,7 +34,7 @@ Este repositorio publica **únicamente los módulos esenciales de comunicación,
 ## 📁 Estructura del Repositorio
 
 ```text
-QianLi-ThermalCam-Core/
+Mini_S_256Pro-ThermalCam-Core/
 ├── README.md                  # Documentación en inglés
 ├── README.es.md               # Documentación en español (este archivo)
 ├── LICENSE                    # Licencia MIT (código Python original)

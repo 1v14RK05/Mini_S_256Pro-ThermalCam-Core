@@ -34,7 +34,7 @@ This repository publishes **only the essential communication, ABI contracts, and
 ## 📁 Repository Structure
 
 ```text
-QianLi-ThermalCam-Core/
+Mini_S_256Pro-ThermalCam-Core/
 ├── README.md                  # English documentation (this file)
 ├── README.es.md               # Documentación completa en español
 ├── LICENSE                    # MIT License (original Python code)
